@@ -14,9 +14,12 @@ contact:
     link: https://github.com/ok-data
 education:
   - university: Seoul National University of Science and Technology
-    duration: February 212 - August 2018
+    duration: 03.2012 - 08.2018
     location: Seoul, Korea
     major: Computer Science
+  - university: Korean International School in Qingdao
+    duration: 2008 - 2011
+    localtion: Qingdao, China
 skills:
   - title: Programming Language
     items: Shell Script, Python, Scala, Java
@@ -48,7 +51,7 @@ projects:
     description: details
 awards:
   - name: 2nd Prized in BigData Contest(National Information Society Agency, Korea)
-    date: 2017.11
+    date: 11.2017
     description: Up-coming movie audience prediction based on data offered by NIA, participated by scrapping web data from Korea Box-office Information System for increase accuracy for audience prediction.
 languages:
   - name: Korean
