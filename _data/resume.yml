@@ -41,7 +41,7 @@ experience:
   - title: BigData Engineer
     company: EXEM lnc.
     duration: 02/2018 - 10/2018
-    description: Hadoop Ecosystem Engineering, Automated ETL proccess
+    description: Hadoop Ecosystem Engineering, Automated ETL proccess, Tech Research
 projects:
   - name: NiFi TensorflowOnSpark
     contribution: personal toy project
