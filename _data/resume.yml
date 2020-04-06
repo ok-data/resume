@@ -14,12 +14,12 @@ contact:
     link: https://github.com/ok-data
 education:
   - university: Seoul National University of Science and Technology
-    duration: 03.2012 - 08.2018
+    duration: 03/2012 - 08/2018
     location: Seoul, Korea
     major: Computer Science
   - university: Korean International School in Qingdao
     duration: 2008 - 2011
-    localtion: Qingdao, China
+    location: Qingdao, China
 skills:
   - title: Programming Language
     items: Shell Script, Python, Scala, Java
@@ -34,25 +34,25 @@ skills:
   - title: Cloud
     items: Kubernetes
   - title: Communication
-    items: Trello
+    items: Trello, Slack
   - title: Documentation
     items: VSCode, Typora, Markdown
 experience:
   - title: BigData Engineer
     company: EXEM lnc.
-    duration: 2018.02 - 2018.10
+    duration: 02/2018 - 10/2018
     description: Hadoop Ecosystem Engineering, Automated ETL proccess
 projects:
   - name: NiFi TensorflowOnSpark
-    contribution: toy project
+    contribution: personal toy project
     description: RealTime Object Detection With 
   - name: Web log Analysis
-    contribution: toy project
+    contribution: personal toy project
     description: Realtime web log(nginx) analysis running on K8s.
   - name: 
 awards:
   - name: 2nd Prized in BigData Contest(National Information Society Agency, NIA Korea)
-    date: 11.2017
+    date: 11/2017
     description: Up-coming movie audience prediction based on data offered by NIA, participated by scrapping web data from Korea Box-office Information System for increase accuracy for audience prediction.
 languages:
   - name: Korean
