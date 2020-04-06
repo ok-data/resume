@@ -43,14 +43,15 @@ experience:
     duration: 2018.02 - 2018.10
     description: Hadoop Ecosystem Engineering, Automated ETL proccess
 projects:
-  - name: NiFi Tensorflow
+  - name: NiFi TensorflowOnSpark
     contribution: toy project
-    description: details
-  - name: Weblog Analysis
+    description: RealTime Object Detection With 
+  - name: Web log Analysis
     contribution: toy project
-    description: details
+    description: Realtime web log(nginx) analysis running on K8s.
+  - name: 
 awards:
-  - name: 2nd Prized in BigData Contest(National Information Society Agency, Korea)
+  - name: 2nd Prized in BigData Contest(National Information Society Agency, NIA Korea)
     date: 11.2017
     description: Up-coming movie audience prediction based on data offered by NIA, participated by scrapping web data from Korea Box-office Information System for increase accuracy for audience prediction.
 languages:
