@@ -41,7 +41,7 @@ experience:
     description: Hadoop Ecosystem Engineering, Automated ETL proccess
 projects:
   - name: NiFi Tensorflow
-    description: 
+    description: details
     contribution: toy project
   - name: Weblog Analysis
 awards:
