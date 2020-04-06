@@ -1,11 +1,11 @@
-title: Resume
+title:
 name: KiHwan Kim (김기환)
 jobtitle: Data Engineer
 contact:
   - icon: fa-envelope
     text: khk.dblab@gmail.com
   - icon: fa-phone-square
-    text: 82)10-4893-3370
+    text: +82)10-4893-3370
   - icon: fa-globe
     text: Blog
     link: https://ok-data.github.io/
@@ -19,7 +19,7 @@ education:
     major: Computer Science
 skills:
   - title: Programming Language
-    items: Python, Shell Script, Scala, Java 😕
+    items: Shell Script, Python, Scala, Java
   - title: Linux Engineering
     items: Centos, Ubuntu, Ansible
   - title: Hadoop Ecosystem
@@ -27,7 +27,7 @@ skills:
   - title: Hypervisor
     items: Proxmox(KVM), Xenserver
   - title: Data ETL
-    items: NiFi, Flume, Kafka, Fluentd
+    items: NiFi, Kafka, Flume, Fluentd
   - title: Cloud
     items: Kubernetes
   - title: Communication
