@@ -77,10 +77,10 @@ layout: default
               {{ exp.title }}
             </div>
             <div class="block-subtitle">
-              {{ exp.duration }} | {{ exp.company }}
+                {{ exp.duration }} | {{ exp.company }}
             </div>
             <div class="block-content">
-              {{ exp.description }}
+                {{ exp.description }}
             </div>
           </div>
           {% endfor %}
@@ -107,6 +107,27 @@ layout: default
           {% endfor %}
         </div>
       </section>
+
+      <section id="awards">
+	    <div class="section-title">
+		Awards
+		</div>
+		<div class="section-content section-flex">
+		{% for awards in site.data.resume.awards %}
+		  <div class="block block-sqare">
+		    <div class="block-title">
+			  {{ awards.name }}
+			</div>
+			<div class="block-subtitle">
+			  {{ awards.date }}
+			</div>
+			<div class="block-content">
+			  {{ awards.description }}
+            </div>
+		  </div>
+		{% endfor %}
+		</div>
+	  </section>
 
       <section id="languages">
         <div class="section-title">

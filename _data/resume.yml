@@ -19,37 +19,35 @@ education:
     major: Computer Science
 skills:
   - title: Programming Language
-    items: Python 🟢, Shell Script 🟢, Scala 🟡, Java 🟡
-  - title: Server Management
-    items: Centos, Ubuntu
+    items: Python, Shell Script, Scala, Java 😕
+  - title: Linux Engineering
+    items: Centos, Ubuntu, Ansible
   - title: Hadoop Ecosystem
-    items: CDH, HDP, MapReduce Programming, Apache Spark, Hive, HBase,
+    items: CDH, HDP, MapReduce Programming, Apache Spark, Hive, HBase
   - title: Hypervisor
     items: KVM(Proxmox), Xen(Xenserver)
   - title: Data ETL
     items: NiFi, Flume, Kafka, Fluentd
-  - title: Paas
+  - title: Cloud
     items: Kubernetes
+  - title: Communication
+    items: Trello
+  - title: Documentation
+    items: VSCode, Typora, Markdown
 experience:
   - title: BigData Engineer
-    duration: 2018.02 - 2018.10
     company: EXEM lnc.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: Job Title 2
-    duration: Apr 2013 - Mar 2016
-    company: Your 2nd, Inc.
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  - title: Job Title 3
-    duration: Dec 2011 - Mar 2012
-    company: Your 3rd Co, Ltd.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    duration: 2018.02 - 2018.10
+    description: Hadoop Ecosystem Engineering, Automated ETL proccess
 projects:
-  - name: Movie Audience Statistics Prediction
-    description: Experienced using "Linear Decision Tree algorithm" to predict the number of audience for up-coming movies. (Web Scrapping with Python, predict Algorithm with R)
-    contribution: Data Scrapping
   - name: NiFi Tensorflow
     description: 
-    contribution: Creator and maintainer.
+    contribution: toy project
+  - name: Weblog Analysis
+awards:
+  - name: 2nd Prized in BigData Contest(National Information Society Agency, Korea)
+    date: 2017.11
+    description: Up-coming movie audience prediction based on data offered by NIA. Scrapped web data from Korea Box-office Information System for increase accuracy for audience prediction.
 languages:
   - name: Korean
     proficiency: Mother Language
