@@ -25,7 +25,7 @@ skills:
     items: Shell Script, Python, Scala, Java
   - title: Linux Engineering
     items: Centos, Ubuntu, Ansible
-  - title: Hadoop Ecosystem
+  - title: Hadoop
     items: CDH, HDP, MapReduce Programming, Apache Spark, Hive, HBase
   - title: Hypervisor
     items: Proxmox(KVM), Xenserver
