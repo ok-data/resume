@@ -41,9 +41,11 @@ experience:
     description: Hadoop Ecosystem Engineering, Automated ETL proccess
 projects:
   - name: NiFi Tensorflow
-    description: details
     contribution: toy project
+    description: details
   - name: Weblog Analysis
+    contribution: toy project
+    description: details
 awards:
   - name: 2nd Prized in BigData Contest(National Information Society Agency, Korea)
     date: 2017.11
