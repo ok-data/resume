@@ -16,7 +16,7 @@ Blog : http://ok-data.github.io
 
 ## 학력
 
-- `서울과학기술대학교`
+### 서울과학기술대학교
 
 기간 : 2012.02 ~ 2018.08
 
@@ -24,11 +24,11 @@ Blog : http://ok-data.github.io
 
 지역 : 서울
 
-- `青岛韩国国际学校`
+### 青岛韩国国际学校
 
 기간 : 2008 - 2011
 
-지역 : 중국 칭다오
+지역 : 中国 青岛
 
 ## Tech Stack
 
@@ -73,13 +73,13 @@ Blog : http://ok-data.github.io
 
 링크
 
-### Yolov3를 활용한 자동차 번호판 인식
+### Yolov3를 활용한 차량 번호판 인식
 
 - Contribution : 기업 프로젝트, 기술 조사, 구현
 
 - Duration : 2018.07 - 2018.10
 
-- Tech Stack : `C++`, `
+- Tech Stack : `C++`
 
 - Description : 
 
@@ -95,7 +95,7 @@ Blog : http://ok-data.github.io
 
 ## Awards
 
-### 2017 빅콘테스트 퓨쳐스리그 
+### 2017 빅콘테스트 퓨쳐스리그 정보화진흥원장상 (종합 2위)
 
 - Contribution : DBlab 동아리원 리더
 
