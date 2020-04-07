@@ -1,4 +1,4 @@
-title: "Resume_kr"
+title: "이력서"
 name: "김기환"
 jobtitle: "Data Engineering"
 contact:
@@ -45,10 +45,10 @@ experience:
 projects:
   - name: Nifi TensorflowOnSpark를 활용한 실시간 이미지 분석
     description: "一个基于 Jekyll 的极简风格响应式简历模板"
-    contribution: 토이 프로젝트 수준
+    contribution: 토이 프로젝트
   - name: 웹로그 분석
     description: "一个非常强大的开源项目，使用了若干强力技术，大大提升了生产力"
-    contribution: 토이 프로젝트 수준
+    contribution: 토이 프로젝트
 languages:
   - name: "한글"
     proficiency: "모국어"
