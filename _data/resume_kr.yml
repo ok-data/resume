@@ -1,6 +1,6 @@
 title: "이력서"
 name: "김기환"
-jobtitle: "Data Engineering"
+jobtitle: "Data Engineer"
 contact:
   - icon: fa-envelope
     text: khk.dblab@gmail.com
@@ -15,11 +15,11 @@ contact:
 education:
   - university: "서울과학기술대학교"
     duration: 03/2012 - 08/2018
-    location: 서울
+    location: 대한민국 서울
     major: 컴퓨터공학과
-  - university: "칭다오한국국제학교"
+  - university: "青岛韩国国际学校"
     duration: 2008 - 2011
-    location: 중국 칭다오
+    location: 中国 青岛
 skills:
   - title: 프로그래밍 언어
     items: Shell Script, Python, Scala, Java
@@ -49,6 +49,10 @@ projects:
   - name: 웹로그 분석
     description: "一个非常强大的开源项目，使用了若干强力技术，大大提升了生产力"
     contribution: 토이 프로젝트
+awards:
+  - name: 2017 빅콘테스트 퓨쳐스리그 "영화관객수예측"
+    date: 11/2017
+    description: 종합 2위 정보화진흥원장상, 
 languages:
   - name: "한글"
     proficiency: "모국어"
