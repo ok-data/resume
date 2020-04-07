@@ -26,7 +26,7 @@ skills:
   - title: Linux Engineering
     items: Centos, Ubuntu, Ansible
   - title: Hadoop
-    items: CDH, HDP, MapReduce Programming, Apache Spark, Hive, HBase
+    items: CDH, HDP, MapReduce Programming, Apache Spark, Hive, HBase, Zookeeper, Sqoop, Oozie
   - title: Hypervisor
     items: Proxmox(KVM), Xenserver
   - title: Data ETL
@@ -36,7 +36,7 @@ skills:
   - title: Communication
     items: Trello, Slack
   - title: Documentation
-    items: VSCode, Typora, Markdown
+    items: Typora, Markdown
 experience:
   - title: BigData Engineer
     company: EXEM lnc.
