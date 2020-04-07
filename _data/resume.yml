@@ -24,7 +24,7 @@ skills:
   - title: Programming Language
     items: Shell Script, Python, Scala, Java
   - title: Linux Engineering
-    items: Centos, Ubuntu, Ansible
+    items: Centos, Ubuntu with Ansible
   - title: Hadoop
     items: CDH, HDP, MapReduce Programming, Apache Spark, Hive, HBase, Zookeeper, Sqoop, Oozie
   - title: Hypervisor
@@ -32,7 +32,7 @@ skills:
   - title: Data ETL
     items: NiFi, Kafka, Flume, Fluentd
   - title: Cloud
-    items: Kubernetes
+    items: Kubernetes, Docker
   - title: Communication
     items: Trello, Slack
   - title: Documentation
