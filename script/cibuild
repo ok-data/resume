@@ -18,10 +18,10 @@ else
 fi
 
 # build Chinese version
-if test -e "./_site/resume_zh-CN.html";then
+if test -e "./_site/resume_kr.html";then
   echo "It smokes!"
 else
-  echo "Build CN version failed"
+  echo "Build KR version failed"
   exit 1
 fi
 

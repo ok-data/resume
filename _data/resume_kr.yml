@@ -1,0 +1,58 @@
+title: "Resume_kr"
+name: "김기환"
+jobtitle: "Data Engineering"
+contact:
+  - icon: fa-envelope
+    text: khk.dblab@gmail.com
+  - icon: fa-phone-square
+    text: +82)10-4893-3370
+  - icon: fa-globe
+    text: Blog
+    link: https://ok-data.github.io/
+  - icon: fa-github
+    text: Github
+    link: https://github.com/ok-data
+education:
+  - university: "서울과학기술대학교"
+    duration: 03/2012 - 08/2018
+    location: 서울
+    major: 컴퓨터공학과
+  - university: "칭다오한국국제학교"
+    duration: 2008 - 2011
+    location: 중국 칭다오
+skills:
+  - title: 프로그래밍 언어
+    items: Shell Script, Python, Scala, Java
+  - title: 리눅스 시스템 관리
+    items: Centos, Ubuntu with Ansible
+  - title: Hadoop 운영
+    items: CDH, HDP, MapReduce Programming, Apache Spark, Hive, HBase, Zookeeper, Sqoop, Oozie
+  - title: 하이퍼바이저
+    items: Proxmox(KVM), Xenserver
+  - title: 데이터 ETL
+    items: NiFi, Kafka, Flume, Fluentd
+  - title: 클라우드
+    items: Kubernetes, Docker
+  - title: 커뮤니케이션
+    items: Trello, Slack
+  - title: 문서화
+    items: Typora, Markdown
+experience:
+  - title: 빅데이터기술지원
+    company: EXEM lnc.
+    duration: 02/2018 - 10/2018
+    description: 
+projects:
+  - name: Nifi TensorflowOnSpark를 활용한 실시간 이미지 분석
+    description: "一个基于 Jekyll 的极简风格响应式简历模板"
+    contribution: 토이 프로젝트 수준
+  - name: 웹로그 분석
+    description: "一个非常强大的开源项目，使用了若干强力技术，大大提升了生产力"
+    contribution: 토이 프로젝트 수준
+languages:
+  - name: "한글"
+    proficiency: "모국어"
+  - name: "English"
+    proficiency: "Work Proficiency"
+  - name: "中文"
+    proficiency: "工作熟练"
