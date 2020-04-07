@@ -1,4 +1,4 @@
-# 이력서
+# Resume
 
 [English Resume](https://ok-data.github.io/resume/resume.html)
 
@@ -13,6 +13,8 @@ Email : `khk.dblab@gmail.com`
 Blog : http://ok-data.github.io
 
 ☏ : `+82)10-4893-3370`
+
+<br>
 
 ## 학력
 
@@ -29,6 +31,8 @@ Blog : http://ok-data.github.io
 기간 : 2008 - 2011
 
 지역 : 中国 青岛
+
+<br>
 
 ## Tech Stack
 
