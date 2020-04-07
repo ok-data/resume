@@ -64,15 +64,6 @@ Blog : http://ok-data.github.io
 
 ## Projects
 
-### NiFi, TensorflowOnSpark를 활용한 실시간 이미지 분석
-- Contribution : 기업 프로젝트 (기술조사, 구현)
-
-- Duration : 2018.05 - 2018.06
-
-- Tech Stack : `NiFi`, `TensorflowOnSpark`, `HDP`
-
-- Description : 
-
 ### Weblog 분석
 
 - Contribution : 개인 토이 프로젝트
@@ -83,7 +74,14 @@ Blog : http://ok-data.github.io
 
 - Description : 
 
-링크
+### NiFi, TensorflowOnSpark를 활용한 실시간 이미지 분석
+- Contribution : 기업 프로젝트 (기술조사, 구현)
+
+- Duration : 2018.05 - 2018.06
+
+- Tech Stack : `NiFi`, `TensorflowOnSpark`, `HDP`
+
+- Description : 
 
 ### Yolov3를 활용한 차량 번호판 인식
 
@@ -94,7 +92,6 @@ Blog : http://ok-data.github.io
 - Tech Stack : `C++`
 
 - Description : 
-  - 
 
 ### SNS 데이터를 활용한 감성 분석
 
@@ -104,7 +101,7 @@ Blog : http://ok-data.github.io
 
 - Tech Stack : `HDP`, `HBase`, `Python`, `KoNLPY`, `Zeppelin`
 
-- Description : 
+- Description :
   - 네이버 인기 검색 순위 키워드를 통해 실시간으로 대중의 관심 키워드를 추출하여 인기 있는 소셜 플랫폼인 Twitter의 트윗 데이터를 감성분석하여 관심 키워드에 대한 감성도를 파악
   - Hbase를 활용한 비정형데이터 적재/관리
   - Konlpy의 Kkma 패키지를 통해 형태소 분리를 하고, KOSAC의 감성사전을 통한 감정분석
