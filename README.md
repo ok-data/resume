@@ -2,6 +2,8 @@
 
 [English Resume](https://ok-data.github.io/resume/resume.html)
 
+<br>
+
 ## 소개
 
 이름 : `김기환`
@@ -47,12 +49,16 @@ Blog : http://ok-data.github.io
 | Communication | Trello, Slack |
 | Documentation | Typora, Markdown |
 
+<br>
+
 ## Experience
 
 ### (주)엑셈, 빅데이터기술지원 컨설팅 사원 근무
 - Duration : 2018.02 - 2018.10
 
 - Description : 
+
+<br> 
 
 ## Projects
 
@@ -97,6 +103,8 @@ Blog : http://ok-data.github.io
 
 - Description : 
 
+<br>
+
 ## Awards
 
 ### 2017 빅콘테스트 퓨쳐스리그 정보화진흥원장상 (종합 2위)
@@ -106,6 +114,8 @@ Blog : http://ok-data.github.io
 - Description :
 
 - Tech Stack : `R`, `Python`
+
+<br>
 
 ## Languages
 
