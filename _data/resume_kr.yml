@@ -22,23 +22,23 @@ education:
     location: 中国 青岛
 skills:
   - title: Programming language
-    items: Shell Script Python Scala Java
+    items: Shell-Script, Python, Scala, Java
   - title: Linux Operation
-    items: Centos Ubuntu
+    items: Centos, Ubuntu
   - title: Infrastructure as Code
-    items: Kubernetes Ansible Docker
+    items: Kubernetes, Ansible, Docker
   - title: Hadoop Ecosystem
-    items: HDFS Spark Hive HBase Zookeeper Sqoop Oozie
+    items: HDFS, Spark, Hive, HBase, Zookeeper, Sqoop, Oozie
   - title: Hypervisor
-    items: Proxmox(KVM) Xenserver
+    items: Proxmox(KVM), Xenserver
   - title: Data ETL
-    items: NiFi Kafka Flume Fluentd
+    items: NiFi, Kafka, Flume, Fluentd
   - title: Communication
-    items: Trello Slack
+    items: Trello, Slack
   - title: CI/CD
     items: Jenkins
   - title: Documentation
-    items: Typora Markdown
+    items: Typora, Markdown
 experience:
   - title: 빅데이터기술지원
     company: EXEM lnc.
