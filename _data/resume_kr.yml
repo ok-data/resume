@@ -43,7 +43,7 @@ experience:
   - title: 빅데이터기술지원
     company: EXEM lnc.
     duration: 2018.02 ~ 2018.10
-    description: <li> Hadoop 배포판 HDP, CDH를 활용한 Hadoop Ecosystem 인프라 구축 </li> <li> 빅데이터 교육사업 자료 작성 </li> <li> 오픈소스 기술 조사 및 테스트 </li> <li> 온프레미스 클라우드 기술 조사 </li> <li> 자사 빅데이터 플랫폼 제품 QA </li>
+    description: <li> HDP, CDH를 활용한 Hadoop Ecosystem 인프라 구축 </li> <li> 빅데이터 교육사업 자료 작성 </li> <li> 빅데이터 오픈소스 프로젝트 조사 및 테스트 </li> <li> 온프레미스 클라우드 기술 조사 </li> <li> 자사 빅데이터 플랫폼 제품 QA </li>
 projects:
   - name: Weblog 분석
     description: 
@@ -54,7 +54,7 @@ projects:
     contribution: 기업 프로젝트 (기술조사, 구현)
     duration: 2018.07 ~ 2018.10
   - name: Nifi-TensorflowOnSpark를 활용한 실시간 이미지 분석
-    description: <li> 데이터 전처리 Pipeline 구성</li> <li> Spark 스트리밍을 활용한 실시간 이미지 분석 모델 구성 </li>
+    description: <li> 데이터 전처리 Pipeline 구성</li> <li> Spark 스트리밍을 활용한 실시간 이미지 분석 모델 구성 </li> <li> 외부 세미나 서포터 </li>
     contribution: 기업 프로젝트 (기술조사, 구현)
     duration: 2018.05 - 2018.06
   - name: SNS 데이터를 이용한 대중인식 분석
