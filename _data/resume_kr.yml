@@ -28,7 +28,7 @@ skills:
   - title: Infrastructure as Code
     items: Kubernetes, Ansible, Docker
   - title: Hadoop Ecosystem
-    items: CDH, HDP, MapReduce Programming, Apache Spark, Hive, HBase, Zookeeper, Sqoop, Oozie
+    items: HDFS, Spark, Hive, HBase, Zookeeper, Sqoop, Oozie
   - title: Hypervisor
     items: Proxmox(KVM), Xenserver
   - title: Data ETL
