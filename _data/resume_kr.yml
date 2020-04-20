@@ -7,10 +7,10 @@ contact:
   - icon: fa-phone-square
     text: +82)10-4893-3370
   - icon: fa-globe
-    text: Blog
-    link: https://ok-data.github.io/
+    text: ok-data.github.io
+    link: https://ok-data.github.io
   - icon: fa-github
-    text: GitHub
+    text: github.com/ok-data
     link: https://github.com/ok-data
 education:
   - university: "서울과학기술대학교"
@@ -21,7 +21,7 @@ education:
     duration: 2008 - 2011
     location: 中国 青岛
 skills:
-  - title: Programming language
+  - title: Programming Language
     items: Shell-Script, Python, Scala, Java
   - title: Linux Operation
     items: Centos, Ubuntu
@@ -33,12 +33,7 @@ skills:
     items: Proxmox(KVM), Xenserver
   - title: Data ETL
     items: NiFi, Kafka, Flume, Fluentd
-  - title: Communication
-    items: Trello, Slack
-  - title: CI/CD
-    items: Jenkins
-  - title: Documentation
-    items: Typora, Markdown
+
 experience:
   - title: 빅데이터기술지원
     company: EXEM lnc.
@@ -63,8 +58,11 @@ projects:
     duration: 2018.02 ~ 2018.04
 awards:
   - name: 2017 빅콘테스트 퓨쳐스리그 "영화관객수예측"
-    date: 11/2017
-    description: <b>종합 2위,정보화진흥원장상</b> <p> <a href="https://www.bigcontest.or.kr/index.php"> 링크 </a>
+    date: 2017.11, 정보화진흥원(NIA) 주최
+    description: <b>종합 2위, 정보화진흥원장상</b> <p> "영화관입장권전산망" 데이터 크롤링(Python) 및 데이터 전처리 <p>  <a href="https://www.bigcontest.or.kr/index.php"> bigcontest.or.kr </a>
+certificates:
+  - name: OPIC (IH)
+    date: 2018.06
 languages:
   - name: "한글"
     proficiency: "모국어"
