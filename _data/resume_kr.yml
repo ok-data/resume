@@ -26,11 +26,11 @@ skills:
   - title: Linux Operation
     items: Centos, Ubuntu
   - title: Infrastructure as Code
-    items: Kubernetes, Ansible, Docker
+    items: Kubernetes, Docker, Ansible
   - title: Hadoop Ecosystem
-    items: HDFS, Spark, Hive, HBase, Zookeeper, Sqoop, Oozie
+    items: Spark, Hive, HBase, Zookeeper, Sqoop, Oozie
   - title: Hypervisor
-    items: Proxmox(KVM), Xenserver
+    items: Proxmox(KVM), Citrix Xenserver
   - title: Data ETL
     items: NiFi, Kafka, Flume, Fluentd
 
@@ -58,8 +58,8 @@ projects:
     duration: 2018.02 ~ 2018.04
 awards:
   - name: 2017 빅콘테스트 퓨쳐스리그 "영화관객수예측"
-    date: 2017.11, 정보화진흥원(NIA) 주최
-    description: <b>종합 2위, 정보화진흥원장상</b> <p> "영화관입장권전산망" 데이터 크롤링(Python) 및 데이터 전처리 <p>  <a href="https://www.bigcontest.or.kr/index.php"> bigcontest.or.kr </a>
+    date: 2017.11, 정보화진흥원(NIA) 주최 <a href="https://www.bigcontest.or.kr/index.php"> [링크] </a>
+    description: 세 편의 영화에 대한 매출액, 점유율, 관객수, 증감율, 스크린수, 상영횟수 등의 정보를 활용하여 실제 관객수와 예측관객수 비교 <p> <li> "영화관입장권전상망"의 데이터 수집, Python 크롤링 및 전처리 </li>  <p><b>종합 2위, 정보화진흥원장상</b>  
 certificates:
   - name: OPIC (IH)
     date: 2018.06
