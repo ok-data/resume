@@ -53,7 +53,7 @@ projects:
     contribution: 기업 프로젝트 (기술조사, 구현)
     duration: 2018.05 - 2018.06
   - name: SNS 데이터를 이용한 대중인식 분석
-    description: 네이버 인기 검색 순위 키워드를 통해 실시간으로 대중의 관심 키워드를 추출하여 인기 있는 소셜 플랫폼인 Twitter의 트윗 데이터를 감성분석하여 관심 키워드에 대한 감성도를 파악 <p> <li> Hbase를 활용한 비정형데이터 적재/관리</li><li>Konlpy의 Kkma 패키지를 통해 형태소 분리, KOSAC의 감성사전을 통한 감정분석</li><li>Zeppelin을 통해 대시보드형식의 구성으로 분석된 데이터 시각화</li>
+    description: 네이버 인기 검색 순위 키워드를 통해 실시간으로 대중의 관심 키워드를 추출하여 인기 있는 소셜 플랫폼인 Twitter의 트윗 데이터를 감성분석하여 관심 키워드에 대한 감성도를 파악 <p> <li> Hbase를 활용한 비정형데이터 적재/관리</li><li>Konlpy의 Kkma 패키지를 통해 형태소 분리, KOSAC의 감성사전을 통한 감정분석</li><li>Zeppelin을 통해 대시보드형식의 분석 데이터 시각화</li>
     contribution: 대학 졸업 작품 (개인)
     duration: 2018.02 ~ 2018.04
 awards:
