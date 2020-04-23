@@ -2,16 +2,21 @@ title: "이력서"
 name: "김기환"
 jobtitle: "Data Engineer"
 contact:
-  - icon: fa-envelope
-    text: khk.dblab@gmail.com
-  - icon: fa-phone-square
-    text: +82)10-4893-3370
-  - icon: fa-globe
-    text: ok-data.github.io
-    link: https://ok-data.github.io
-  - icon: fa-github
-    text: github.com/ok-data
-    link: https://github.com/ok-data
+- icon: fa-birthday-cake
+  text: 1993.05.09
+- icon: fa-street-view
+  text: Seoul, Korea
+- icon: fa-envelope
+  text: khk.dblab@gmail.com
+- icon: fa-phone-square
+  text: +82)10-4893-3370
+- icon: fa-globe
+  text: ok-data.github.io
+  link: https://ok-data.github.io
+- icon: fa-github
+  text: github.com/ok-data
+  link: https://github.com/ok-data
+
 education:
   - university: "서울과학기술대학교"
     duration: 2012.03 - 2018.08
