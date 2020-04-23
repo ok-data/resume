@@ -6,31 +6,27 @@ header {
   padding-bottom: 2.2rem;
 }
 
-// .avatar {
-//     vertical-align: middle;
-//     // width: 120px;
-//     // height: 120px;
-//     border-radius: 30%;
-// }
-
 .avatar {
-    border-radius: 30%;
-    -moz-border-radius: 30%;
-    -webkit-border-radius: 30%;
+    border-radius: 10%;
+    -moz-border-radius: 10%;
+    -webkit-border-radius: 10%;
 }
 
 .name-wrapper {
   padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-bottom: .5rem;
+//   vertical-align: middle;
 }
 
 .title {
   font-size: 2.2rem;
+  text-align: left;
 }
 
 .sub-title {
   font-size: 1.2rem;
   margin-top: .8rem;
+  text-align: left;
 }
 
 .contact {
