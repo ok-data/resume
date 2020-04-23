@@ -5,6 +5,7 @@ layout: default
     <div class="container">
       <header>
         <div class="name-wrapper">
+          <img src="https://www.gravatar.com/avatar/fee7033f53ff9534dfffd867ecf72ebe?s=128" alt="Avatar" class="avatar"/>
           <div id="fullname" class="title">
             {{ site.data.resume_kr.name }}
           </div>
@@ -14,6 +15,7 @@ layout: default
         </div>
         <div id="contact" class="contact">
           {% for item in site.data.resume_kr.contact %}
+          <p>
           <div class="contact-item">
             {% if item.link %}
             <a href="{{ item.link }}">
