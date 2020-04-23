@@ -6,11 +6,17 @@ header {
   padding-bottom: 2.2rem;
 }
 
+// .avatar {
+//     vertical-align: middle;
+//     // width: 120px;
+//     // height: 120px;
+//     border-radius: 30%;
+// }
+
 .avatar {
-    vertical-align: middle;
-    width: 120px;
-    height: 120px;
     border-radius: 30%;
+    -moz-border-radius: 30%;
+    -webkit-border-radius: 30%;
 }
 
 .name-wrapper {
